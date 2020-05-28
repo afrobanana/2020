@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "https://2020.afrobananarepublic.com/static/css/main.47ce6b1b.chunk.css",
+    "main.js": "https://2020.afrobananarepublic.com/static/js/main.ede7bebb.chunk.js",
+    "main.js.map": "https://2020.afrobananarepublic.com/static/js/main.ede7bebb.chunk.js.map",
+    "runtime-main.js": "https://2020.afrobananarepublic.com/static/js/runtime-main.a9d9d9b9.js",
+    "runtime-main.js.map": "https://2020.afrobananarepublic.com/static/js/runtime-main.a9d9d9b9.js.map",
+    "static/css/2.e611564a.chunk.css": "https://2020.afrobananarepublic.com/static/css/2.e611564a.chunk.css",
+    "static/js/2.5defa8a6.chunk.js": "https://2020.afrobananarepublic.com/static/js/2.5defa8a6.chunk.js",
+    "static/js/2.5defa8a6.chunk.js.map": "https://2020.afrobananarepublic.com/static/js/2.5defa8a6.chunk.js.map",
+    "index.html": "https://2020.afrobananarepublic.com/index.html",
+    "precache-manifest.a85cbfe50406fb3cee595768dab9c343.js": "https://2020.afrobananarepublic.com/precache-manifest.a85cbfe50406fb3cee595768dab9c343.js",
+    "service-worker.js": "https://2020.afrobananarepublic.com/service-worker.js",
+    "static/css/2.e611564a.chunk.css.map": "https://2020.afrobananarepublic.com/static/css/2.e611564a.chunk.css.map",
+    "static/css/main.47ce6b1b.chunk.css.map": "https://2020.afrobananarepublic.com/static/css/main.47ce6b1b.chunk.css.map",
+    "static/js/2.5defa8a6.chunk.js.LICENSE.txt": "https://2020.afrobananarepublic.com/static/js/2.5defa8a6.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.css": "https://2020.afrobananarepublic.com/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/poster-shared.png": "https://2020.afrobananarepublic.com/static/media/poster-shared.1875ecb1.png",
+    "static/media/poster.png": "https://2020.afrobananarepublic.com/static/media/poster.1875ecb1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9d9d9b9.js",
+    "static/css/2.e611564a.chunk.css",
+    "static/js/2.5defa8a6.chunk.js",
+    "static/css/main.47ce6b1b.chunk.css",
+    "static/js/main.ede7bebb.chunk.js"
+  ]
+}
