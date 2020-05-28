@@ -6,7 +6,7 @@ import ReactDOM from 'react-dom'
 import { HashRouter as Router } from 'react-router-dom'
 
 import Landing from './landing'
-import {register} from './serviceWorker'
+import { register } from './serviceWorker'
 
 ReactDOM.render(
   <Router hashType="noslash">

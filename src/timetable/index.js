@@ -48,11 +48,10 @@ class Timetable extends PureComponent {
           {!!day.match(/sunday/i) && <sup> **Free Entry**</sup>}
         </h2>
         {Object.keys(stages)
-          .sort(
-            (a, b) =>
-              stages[a][0].stage.displayOrder < stages[b][0].stage.displayOrder
-                ? -1
-                : 1
+          .sort((a, b) =>
+            stages[a][0].stage.displayOrder < stages[b][0].stage.displayOrder
+              ? -1
+              : 1
           )
           .map((stage, i) =>
             this.renderStage({

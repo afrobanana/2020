@@ -12,11 +12,11 @@ export default () => (
     <div className="box-container">
       <div className="box">
         <p>
-          The Festival is organized by the non-profit organization “<strong>
-            ABR - Alternative Brains Rule
-          </strong>”. Its team is composed of young people from different
-          professional fields, that are involved in the arts, and have set out
-          to develop the Cypriot creative alternative scene.
+          The Festival is organized by the non-profit organization “
+          <strong>ABR - Alternative Brains Rule</strong>”. Its team is composed
+          of young people from different professional fields, that are involved
+          in the arts, and have set out to develop the Cypriot creative
+          alternative scene.
         </p>
         <p>
           By encouraging collaborations between different fields they aim to
