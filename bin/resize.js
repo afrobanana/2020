@@ -23,7 +23,6 @@ fs.readdirSync(path).filter((f) =>
 
     Sharp(`${ path }/${ f }`)
         .resize(opts.width, 3000)
-        .max()
         .toBuffer()
         .then((buffer) => {
             const file = `${ path }/${ f }`
