@@ -35,7 +35,7 @@
     "node-serve": "0.0.3",
     "prettier": "^1.11.1",
 
-    "sharp": "0.25.3"
+    "sharp": "0.30.5"
   },
   "scripts": {
     "build": "npm run fixtures && react-scripts build && npm run resize && npm run optimize",
